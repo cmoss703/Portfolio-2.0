@@ -1,0 +1,20 @@
+[
+    {
+        "imgPath": "assets/images/goal-tracker.png",
+        "altTag": "Goal Tracker App",
+        "projectLink": "https://goal-tracker-kscc.herokuapp.com/",
+        "projectName": "Goal Tracker App"
+    },
+    {
+        "imgPath": "assets/images/fanpagr.png",
+        "altTag": "fanPagR Fan Page Generator",
+        "projectLink": "https://cmoss703.github.io/fanPagR/",
+        "projectName": "fanPagR Fan Page Generator"
+    },
+    {
+        "imgPath": "assets/images/fanpagr.png",
+        "altTag": "fanPagR Fan Page Generator",
+        "projectLink": "https://cmoss703.github.io/fanPagR/",
+        "projectName": "fanPagR Fan Page Generator"
+    }
+]
