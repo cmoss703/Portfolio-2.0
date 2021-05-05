@@ -3,7 +3,7 @@ function Main() {
         <>
         <h1 className="mb-4 cool-font text-center">About Me</h1>
 
-                        <img width="250px" className="float-start me-3 img-fluid s12" src="assets/images/christina-bw.jpg"
+                        <img width="250px" className="float-start me-3 img-fluid s12" src="./assets/images/christina-bw.jpg"
                             alt="Christina black and white" />
 
                         <p className="float-left">
