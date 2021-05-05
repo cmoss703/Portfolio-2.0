@@ -40,25 +40,25 @@ I promise I made the pages, here look at my screenshots:
 
 About Me:
 
-![About Me](assets/images/about-me.png)
+![About Me](public/assets/images/about-me.png)
 
 About Me Alt Layout:
 
-![Responsive About Me](assets/images/resp-about.png)
+![Responsive About Me](public/assets/images/resp-about.png)
 
 Portfolio:
 
-![Portfolio](assets/images/portfolio.png)
+![Portfolio](public/assets/images/portfolio.png)
 
 Portfolio Alt Layout:
 
-![Responsive Portfolio](assets/images/resp-portfolio.png)
+![Responsive Portfolio](public/assets/images/resp-portfolio.png)
 
 Contact:
 
-![Contact](assets/images/contact.png)
+![Contact](public/assets/images/contact.png)
 
 Contact Alt Layout:
 
-![Responsive Contact](assets/images/resp-contact.png)
+![Responsive Contact](public/assets/images/resp-contact.png)
 
