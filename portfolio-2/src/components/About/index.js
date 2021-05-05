@@ -1,4 +1,4 @@
-function Card(props) {
+function About(props) {
     return (
         <div className="card-body pt-4 col-12">
             {props.children}
@@ -6,4 +6,4 @@ function Card(props) {
     )
 }
 
-export default Card
+export default About

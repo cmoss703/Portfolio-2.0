@@ -1,6 +1,6 @@
 import Container from "../components/Container";
 import Row from "../components/Row";
-import Card from "../components/Card";
+import About from "../components/About";
 import Main from "../components/Main";
 
 function Home() {
@@ -8,9 +8,9 @@ function Home() {
         <>
             <Container>
                 <Row>
-                    <Card>
+                    <About>
                         <Main />
-                    </ Card>
+                    </ About>
                 </ Row>
             </ Container>
         </>

@@ -12,9 +12,27 @@
         "projectName": "fanPagR Fan Page Generator"
     },
     {
-        "imgPath": "assets/images/fanpagr.png",
-        "altTag": "fanPagR Fan Page Generator",
-        "projectLink": "https://cmoss703.github.io/fanPagR/",
-        "projectName": "fanPagR Fan Page Generator"
+        "imgPath": "assets/images/burger-time.png",
+        "altTag": "Burger Time",
+        "projectLink": "https://cmoss-burger-time.herokuapp.com/",
+        "projectName": "Eat Da Burger"
+    },
+    {
+        "imgPath": "assets/images/weather-app.png",
+        "altTag": "Weather App",
+        "projectLink": "https://cmoss703.github.io/weather-dashboard/",
+        "projectName": "Weather Dashboard"
+    },
+    {
+        "imgPath": "assets/images/planner.png",
+        "altTag": "Daily Planner",
+        "projectLink": "https://cmoss703.github.io/daily-planner/",
+        "projectName": "Daily Planner"
+    },
+    {
+        "imgPath": "assets/images/password-gen.png",
+        "altTag": "Password Generator",
+        "projectLink": "https://cmoss703.github.io/password-generator/",
+        "projectName": "Password Generator"
     }
 ]

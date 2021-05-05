@@ -11,9 +11,9 @@ function Nav() {
 
                 <div className="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo02">
                     <div className="navbar-nav">
-                        <a className="nav-link active" aria-current="page" href="/">About</a>
-                        <a className="nav-link" href="portfolio.html">Portfolio</a>
-                        <a className="nav-link" href="contact.html">Contact</a>
+                        <a className="nav-link" href="/">About</a>
+                        <a className="nav-link" href="/portfolio">Portfolio</a>
+                        <a className="nav-link" href="/contact">Contact</a>
                     </div>
                 </div>
 

@@ -2,7 +2,7 @@ import React from "react";
 import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
-// import NoMatch from "./pages/NoMatch";
+import NoMatch from "./pages/NoMatch";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
@@ -25,9 +25,9 @@ function App() {
           <Route exact path="/contact">
             <Contact />
           </Route>
-          {/* <Route>
+          <Route>
             <NoMatch />
-          </Route> */}
+          </Route>
         </Switch>
         <Footer />
       </>
