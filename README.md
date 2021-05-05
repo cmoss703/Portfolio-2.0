@@ -61,4 +61,3 @@ Contact:
 Contact Alt Layout:
 
 ![Responsive Contact](public/assets/images/resp-contact.png)
-

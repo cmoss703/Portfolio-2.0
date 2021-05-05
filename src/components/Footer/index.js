@@ -8,6 +8,7 @@ function Footer() {
                             <h5 className="white-text">About Christina</h5>
                             <p className="grey-text text-lighten-4">Currently enrolled in KU's Coding Bootcamp. Always looking for new
             opportunities! <br /> Email me: <a href="christinalmoss@gmail.com">christinalmoss@gmail.com</a></p>
+                            <a href="https://drive.google.com/file/d/16N6QvnE4Z4SgwiLMVLsBLk_s1wRKxRXA/view?usp=sharing">My Resume</a>
                         </div>
                         <div className="col l4 s12">
                             <h5 className="white-text">Social Media or Email</h5>
