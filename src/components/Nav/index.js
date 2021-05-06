@@ -1,3 +1,6 @@
+import React from "react";
+import { Link } from "react-router-dom";
+
 function Nav() {
     return (
         <nav className="navbar navbar-expand-md navbar-dark bg-dark">
@@ -10,11 +13,11 @@ function Nav() {
                 </button>
 
                 <div className="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo02">
-                    <div className="navbar-nav">
-                        <a className="nav-link" href="/">About</a>
-                        <a className="nav-link" href="/portfolio">Portfolio</a>
-                        <a className="nav-link" href="/contact">Contact</a>
-                    </div>
+                    <ul className="navbar-nav">
+                        <li><Link to="/">About</Link></li>
+                        <li><Link to="/portfolio">Portfolio</Link></li>
+                        <li><Link to="/contact">Contact</Link></li>
+                    </ul>
                 </div>
 
             </div>
