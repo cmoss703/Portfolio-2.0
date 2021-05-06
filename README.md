@@ -14,7 +14,7 @@ This portfolio was recreated using React!
 
 ## LINKS
 
-[My Portfolio](https://cmoss703.github.io/portfolio-2/#/portfolio.html)
+[My Portfolio](https://cmoss703.github.io/portfolio-2/#/portfolio)
 
 [Github Profile](https://github.com/cmoss703)
 
